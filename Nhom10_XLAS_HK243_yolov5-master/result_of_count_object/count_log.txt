@@ -1,0 +1,7 @@
+30thg4.jpg: person=13
+bus.jpg: person=4, bus=1
+class.jpg: chair=11, person=3, tv=2, dining table=2
+class2.jpg: person=14, chair=10, laptop=2, tv=1, dining table=1, clock=1
+zidane.jpg: person=2, tie=1
+zoo.jpg: person=14, teddy bear=1, handbag=1, giraffe=1
+zoo2.jpg: person=11, backpack=2
